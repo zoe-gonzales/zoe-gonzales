@@ -1,7 +1,7 @@
 
 ## 🤓 About Me
 
-Web developer with over fours years of experience across the stack (Ruby on Rails / React). These days, I work on the frontend at Handshake, leveraging Typescript, Nx and more to support our codebase as Handshake continues to grow. I love diving deep into the details of React and Typescript as well as native web technologies like HTML and web APIs. I love pair programming, writing documentation, collaborating with product and design partners, and mentoring other engineers.
+Web developer with over four years of experience across the stack (Ruby on Rails / React). These days, I work on the frontend at Handshake, leveraging Typescript, Nx, and more to support our codebase as Handshake continues to grow. I love diving deep into the details of React and Typescript as well as native web technologies like HTML and web APIs. I enjoy pair programming, writing documentation, collaborating with product and design partners, and mentoring other engineers.
   
 ## 🛠 Skills
 
